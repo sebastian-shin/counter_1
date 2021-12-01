@@ -7,5 +7,6 @@ for a_number in [9, 8, 39, 39, 382, 100, 2, 200, 200, 300]:
         true_or_false = True
     print(a_number, true_or_false)
 print('After', true_or_false)
+#
 
 
